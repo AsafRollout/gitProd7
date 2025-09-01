@@ -1,0 +1,8 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+description: '1234'
+labels:
+  - lbl1
+enabled: false
+flag: v5
+value: true

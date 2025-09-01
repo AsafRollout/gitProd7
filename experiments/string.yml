@@ -1,0 +1,29 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: string
+availableValues:
+  - s2
+  - s3
+  - s34
+  - s1
+conditions:
+  - group:
+      name:
+        - tg2
+        - tg1
+    value: s3
+  - version:
+      operator: semver-gt
+      semver: '][-43jif'
+    property:
+      name: app_release
+      operator: semver-ne
+      operand: '@#@!'
+    value:
+      - percentage: 33
+        option: s2
+      - percentage: 33
+        option: s3
+      - percentage: 34
+        option: s34
+value: s2
