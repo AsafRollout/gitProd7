@@ -1,0 +1,7 @@
+type: target-group
+name: tg2
+operator: or
+conditions:
+  - operator: ne
+    property: distinct_id
+    operand: '123'
