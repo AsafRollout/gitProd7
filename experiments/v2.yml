@@ -1,0 +1,8 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+description: asdfzvsa
+labels:
+  - lbl2
+enabled: false
+flag: v2
+value: true
