@@ -1,0 +1,19 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: ff11
+availableValues:
+  - 43bvfvbfsdg
+  - asdfbbvcxb
+  - asdf
+conditions:
+  - group:
+      name: tg2
+    value:
+      - percentage: 33
+        option: 43bvfvbfsdg
+      - percentage: 33
+        option: asdfbbvcxb
+      - percentage: 34
+        option: asdf
+value: asdfbbvcxb
