@@ -3,8 +3,3 @@ type: experiment
 enabled: false
 flag: str6
 availableValues: []
-conditions:
-  - group:
-      name: tg2
-    value: qwe
-value: str1
