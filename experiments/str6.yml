@@ -2,4 +2,5 @@
 type: experiment
 enabled: false
 flag: str6
-availableValues: []
+availableValues:
+  - zxcv
