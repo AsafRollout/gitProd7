@@ -2,9 +2,7 @@
 type: experiment
 enabled: false
 flag: str6
-availableValues:
-  - qwe
-  - str1
+availableValues: []
 conditions:
   - group:
       name: tg2
