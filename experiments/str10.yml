@@ -1,9 +1,0 @@
-# This file was edited by CloudBees Feature Management
-type: experiment
-enabled: false
-flag: str10
-availableValues:
-  - s1
-  - s2
-  - s3
-value: s1
