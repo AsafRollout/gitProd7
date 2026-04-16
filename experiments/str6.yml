@@ -3,6 +3,8 @@ type: experiment
 flag: str6
 availableValues:
   - zxcv
+platforms:
+  - name: Android
 conditions:
   - property:
       name: numberProperty
