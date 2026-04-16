@@ -5,8 +5,4 @@ availableValues:
   - zxcv
 platforms:
   - name: Android
-conditions:
-  - property:
-      name: numberProperty
-      operator: is-undefined
-    value: null
+value: zxcv
