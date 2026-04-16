@@ -3,3 +3,8 @@ type: experiment
 flag: str6
 availableValues:
   - zxcv
+conditions:
+  - property:
+      name: numberProperty
+      operator: is-undefined
+    value: zxcv
