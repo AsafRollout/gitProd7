@@ -12,9 +12,9 @@ conditions:
       name: tg2
     value: zxcv
 value:
-  - percentage: 33
+  - percentage: 10
     option: zxcv
-  - percentage: 33
+  - percentage: 20
     option: xcvb
-  - percentage: 33
+  - percentage: 50
     option: cvbn
