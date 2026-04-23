@@ -3,6 +3,8 @@ type: experiment
 flag: str6
 availableValues:
   - zxcv
+  - xcvb
+  - cvbn
 platforms:
   - name: Android
 value: zxcv
