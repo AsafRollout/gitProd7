@@ -8,9 +8,9 @@ availableValues:
 platforms:
   - name: Android
 value:
-  - percentage: 10
+  - percentage: 33
     option: zxcv
-  - percentage: 20
+  - percentage: 33
     option: xcvb
-  - percentage: 70
+  - percentage: 33
     option: cvbn
