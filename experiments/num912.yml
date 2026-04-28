@@ -8,3 +8,4 @@ conditions:
       name: internal.appKey
       operator: is-undefined
     value: 3.12
+value: 3.12
