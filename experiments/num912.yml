@@ -1,6 +1,5 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-enabled: false
 flag: num912
 availableValues:
   - 3.12
