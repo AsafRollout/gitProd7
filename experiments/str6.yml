@@ -2,9 +2,15 @@
 type: experiment
 flag: str6
 availableValues:
-  - zxcv
-  - xcvb
   - cvbn
+  - xcvb
+  - zxcv
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
 platforms:
   - name: Android
 value: cvbn
