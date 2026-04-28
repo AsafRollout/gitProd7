@@ -7,14 +7,4 @@ availableValues:
   - cvbn
 platforms:
   - name: Android
-conditions:
-  - group:
-      name: tg2
-    value: zxcv
-value:
-  - percentage: 10
-    option: zxcv
-  - percentage: 20
-    option: xcvb
-  - percentage: 70
-    option: cvbn
+value: zxcv
