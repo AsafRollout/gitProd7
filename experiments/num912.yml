@@ -1,0 +1,12 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: num912
+availableValues:
+  - 3.12
+conditions:
+  - property:
+      name: internal.appKey
+      operator: is-undefined
+    value: null
+value: 3.12
