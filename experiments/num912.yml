@@ -7,4 +7,4 @@ conditions:
   - property:
       name: internal.appKey
       operator: is-undefined
-    value: 3.12
+    value: null
