@@ -12,6 +12,3 @@ platforms:
     value: false
   - name: Ruby
     value: false
-  - name: Android
-    value: false
-value: false
