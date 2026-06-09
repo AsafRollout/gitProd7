@@ -6,3 +6,12 @@ platforms:
     value: false
   - name: .NET
     value: false
+  - name: PHP
+    value: false
+  - name: Browser
+    value: false
+  - name: Ruby
+    value: false
+  - name: Android
+    value: false
+value: false
