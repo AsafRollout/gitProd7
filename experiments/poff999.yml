@@ -1,0 +1,13 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: poff999
+conditions:
+  - property:
+      name: aaa
+      operator: in-array
+      operand:
+        - '123'
+        - '234'
+    value: true
+value: false
