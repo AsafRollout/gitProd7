@@ -12,5 +12,6 @@ availableValues:
   - e
   - f
 platforms:
-  - name: Android
+  - name: Browser
+  - name: Ruby
 value: d
