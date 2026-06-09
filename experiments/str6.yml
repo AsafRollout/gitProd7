@@ -15,4 +15,5 @@ platforms:
   - name: Browser
     value: a
   - name: Ruby
+    value: zxcv
 value: d
