@@ -1,4 +1,9 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
 flag: flag1
+platforms:
+  - name: NodeJS
+    value: false
+  - name: .NET
+    value: false
 value: false
