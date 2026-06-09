@@ -13,5 +13,6 @@ availableValues:
   - f
 platforms:
   - name: Browser
+    value: a
   - name: Ruby
 value: d
