@@ -1,0 +1,7 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: str5
+availableValues:
+  - s2
+value: s2

@@ -1,0 +1,13 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: ff11
+availableValues:
+  - 43bvfvbfsdg
+  - asdfbbvcxb
+conditions:
+  - dependency:
+      flag: int1
+      value: '1'
+    value: 43bvfvbfsdg
+value: asdfbbvcxb

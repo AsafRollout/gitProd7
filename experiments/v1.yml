@@ -1,0 +1,10 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+labels:
+  - backward-compatible-configuration
+  - lbl1
+  - lbl2
+  - lbl3
+enabled: false
+flag: v1
+value: true

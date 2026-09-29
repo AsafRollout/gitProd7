@@ -1,0 +1,14 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: sls
+platforms:
+  - name: Browser
+    conditions:
+      - dependency:
+          flag: int1
+          value: '1'
+        value: true
+    value:
+      - percentage: 60
+        option: true
+value: false
