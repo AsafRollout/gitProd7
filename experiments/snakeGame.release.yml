@@ -1,9 +1,0 @@
-# This file was edited by CloudBees Feature Management
-type: experiment
-flag: snakeGame.release
-platforms:
-  - name: .NET
-    value: false
-  - name: PHP
-    value: false
-value: true
