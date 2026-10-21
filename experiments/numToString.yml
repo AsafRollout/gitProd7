@@ -6,7 +6,7 @@ availableValues:
   - 10
 conditions:
   - property:
-      name: rox.platform
+      name: rox.language
       operator: in-array
       operand:
         - '5'
