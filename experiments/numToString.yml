@@ -10,5 +10,6 @@ conditions:
       operator: in-array
       operand:
         - '5'
+        - '7'
     value: 10
 value: 10
