@@ -4,4 +4,14 @@ enabled: false
 flag: numToString
 availableValues:
   - 10
+conditions:
+  - property:
+      name: rox.platform
+      operator: in-array
+      operand:
+        - '1'
+        - '2'
+        - '3'
+        - '4'
+    value: 10
 value: 10
