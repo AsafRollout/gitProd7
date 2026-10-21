@@ -9,9 +9,6 @@ conditions:
       name: rox.platform
       operator: in-array
       operand:
-        - '1'
-        - '2'
-        - '3'
-        - '4'
+        - '5'
     value: 10
 value: 10
