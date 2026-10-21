@@ -11,5 +11,6 @@ conditions:
       operand:
         - '5'
         - '7'
+        - '5'
     value: 10
 value: 10
