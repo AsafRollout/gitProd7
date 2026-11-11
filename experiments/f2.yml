@@ -2,6 +2,19 @@
 type: experiment
 enabled: false
 flag: f2
+platforms:
+  - name: NodeJS
+    value: false
+  - name: .NET
+    value: false
+  - name: PHP
+    value: false
+  - name: Browser
+    value: false
+  - name: Ruby
+    value: false
+  - name: Android
+    value: false
 conditions:
   - version:
       operator: semver-eq
