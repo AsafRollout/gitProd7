@@ -2,13 +2,6 @@
 type: experiment
 enabled: false
 flag: f2
-platforms:
-  - name: NodeJS
-    value: false
-  - name: .NET
-    value: false
-  - name: PHP
-    value: false
 conditions:
   - version:
       operator: semver-eq
